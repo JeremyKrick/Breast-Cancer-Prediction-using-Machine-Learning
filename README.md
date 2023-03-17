@@ -1,4 +1,4 @@
-# Breast Cancer Exploratory Data Analysis and Classification 
+# Breast Cancer Prediction Using Machine Learning 
 ##  Project By Team-2:
 ---
 ### Paul Thai
