@@ -1,4 +1,4 @@
-# Team-Project-Statistics-for-AI
+# Breast Cancer Exploratory Data Analysis and Classification 
 ##  Project By Team-2:
 ---
 ### Paul Thai
